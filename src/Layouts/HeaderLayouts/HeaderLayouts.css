@@ -1,0 +1,13 @@
+nav {
+  background-color: #212529;
+  padding: 20px;
+}
+nav .list_menu ul li {
+  list-style: none;
+  margin-right: 25px;
+}
+nav .list_menu .list_1 {
+  transform: 0.5s;
+  cursor: pointer;
+}
+

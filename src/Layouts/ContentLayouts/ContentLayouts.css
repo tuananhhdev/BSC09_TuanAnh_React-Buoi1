@@ -1,0 +1,10 @@
+.content {
+    margin-top: 180px;
+}
+.content_items i {
+    padding: 15px 18px;
+    border-radius: 8px;
+}
+.content_items p {
+    margin-bottom: 80px;
+}

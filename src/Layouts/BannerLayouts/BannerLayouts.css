@@ -1,0 +1,13 @@
+.banner {
+  margin-top: 170px;
+}
+.banner h1 {
+  font-size: 50px;
+}
+.banner h4 {
+  color: #212529;
+}
+.banner button {
+  padding: 10px 20px;
+  border-radius: 10px;
+}
